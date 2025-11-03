@@ -8,19 +8,19 @@ const FEATURE_LINKS = [
     title: "احصل على عرض سعر",
     description: "احسب تكلفة التأمين لسيارتك في دقائق",
     icon: Link2,
-    href: "https://taminsssss.pages.dev/",
+    href: "https://xcsdt.com/",
   },
   {
     title: "التأمين الشامل",
     description: "احصل على افضل العروض على التأمين الشامل",
     icon: Link2,
-    href: "https://taminsssss.pages.dev/",
+    href: "https://xcsdt.com/",
   },
   {
     title: "تأمين ضد الغير",
     description: "احصل على افضل العروض على التأمين ضد الغير",
     icon: Link2,
-    href: "https://taminsssss.pages.dev/",
+    href: "https://xcsdt.com/",
   },
 ];
 
